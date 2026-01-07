@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "ekemeyer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7071688?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "ekemeyer",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-01-07T16:25:18.127Z",
-    "updated_at": "2026-01-07T16:25:18.127Z"
-  }
+    "updated_at": "2026-01-07T16:25:18.127Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "9efe01f7-93a5-4fb5-bd1b-58d148c32a8d": {
+      "content": [],
+      "created_at": "2026-01-07T16:25:18.131Z",
+      "created_by": "ekemeyer",
+      "title": "test_streaming",
+      "updated_at": "2026-01-07T16:25:18.131Z",
+      "updated_by": "ekemeyer",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "9efe01f7-93a5-4fb5-bd1b-58d148c32a8d"
+  ]
 }
